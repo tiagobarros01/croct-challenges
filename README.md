@@ -3,7 +3,6 @@
 ### Objective:
 Create a React `Accordion` component allowing the user to open and close items at will.<br />
 ![img.png](img.png)
-
 ### Requirements:
 - It should use a declarative UI to render the accordion items.
 - It should be possible to specify which accordion item should be opened by default.
@@ -14,13 +13,14 @@ Create a React `Accordion` component allowing the user to open and close items a
 - Use TypeScript for creating the necessary types.
 - Implement a clean and readable code structure.
 - Write unit tests for the `Accordion` component using Jest.
-- The design will not be evaluated, but it should be functional.
+- The design will be evaluated based on the provided image.
 
 ### Evaluation Criteria:
 - Functionality: Does the `Accordion` component work as expected?
 - Code Quality: Is the code clean, readable, and well-organized?
 - Component Design: Is the component designed with reusability and maintainability in mind?
 - Testing: Are there comprehensive Jest tests for the `Accordion` component?
+- Design: Does the `Accordion` component match the provided image?
 
 ### Time Allotment:
 - 50 minutes for implementing the `Accordion` component.
