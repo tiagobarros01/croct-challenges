@@ -2,7 +2,7 @@
 
 ### Objective:
 Create a React `Accordion` component allowing the user to open and close items at will.<br />
-![img.png](img.png)
+![Accordion.png](Accordion.png)
 ### Requirements:
 - It should use a declarative UI to render the accordion items.
 - It should be possible to specify which accordion item should be opened by default.
