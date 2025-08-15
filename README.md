@@ -28,8 +28,8 @@ Image URL in case the image is not displayed: https://snipboard.io/GQvyFr.jpg
 ### Time Allotment:
 - 50 minutes for implementing the `Accordion` component.
 - 30 minutes for writing Jest tests.
-- 40 minutes for discussing the solution and answering questions.
-- 2 hours as the total time allotment.
+- 20 minutes for discussing the solution and answering questions.
+- 1 hour and 40 minutes as the total time allotment.
 
 ### FAQ:
 - Can I use the internet to search for solutions?
