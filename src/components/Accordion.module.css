@@ -1,0 +1,8 @@
+.accordion{
+    border-radius: 10px;
+    border: 1px solid darkgrey;
+    background: rgb(240, 240, 240);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
