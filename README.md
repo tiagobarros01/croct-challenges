@@ -8,6 +8,14 @@ Image URL in case the image is not displayed: https://snipboard.io/GQvyFr.jpg
 
 ### Requirements:
 - It should use a declarative UI to render the accordion items.
+  - Example of a declarative UI:
+    ```
+    <Accordion>
+      <AccordionItem title="Is it accessible?" />
+      <AccordionItem defaultExpanded title="Is it unstyled?" />
+      <AccordionItem title="Can it b animated?" />
+    <Accordion />
+    ```
 - It should be possible to specify which accordion item should be opened by default.
 - Only one accordion item should be open at a time. Clicking on a closed item should open it, and clicking on an open item should close it.
 
