@@ -13,7 +13,7 @@ Image URL in case the image is not displayed: https://snipboard.io/GQvyFr.jpg
     <Accordion>
       <AccordionItem title="Is it accessible?" />
       <AccordionItem defaultExpanded title="Is it unstyled?" />
-      <AccordionItem title="Can it b animated?" />
+      <AccordionItem title="Can it be animated?" />
     <Accordion />
     ```
 - It should be possible to specify which accordion item should be opened by default.
