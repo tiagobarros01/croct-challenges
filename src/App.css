@@ -10,3 +10,16 @@
   width: 300px;
 }
 
+.accordion {
+
+}
+
+.accordion-item {
+
+}
+
+.accordion-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3 ease-out;
+}
